@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/April-fools-day/static/css/main.ec5722d0.css",
+    "main.js": "/April-fools-day/static/js/main.27d94eb6.js",
+    "static/js/787.189aef02.chunk.js": "/April-fools-day/static/js/787.189aef02.chunk.js",
+    "static/media/background-cr.jpg": "/April-fools-day/static/media/background-cr.377d58c049da0dd71276.jpg",
+    "index.html": "/April-fools-day/index.html",
+    "main.ec5722d0.css.map": "/April-fools-day/static/css/main.ec5722d0.css.map",
+    "main.27d94eb6.js.map": "/April-fools-day/static/js/main.27d94eb6.js.map",
+    "787.189aef02.chunk.js.map": "/April-fools-day/static/js/787.189aef02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec5722d0.css",
+    "static/js/main.27d94eb6.js"
+  ]
+}
