@@ -1,6 +1,7 @@
 {
   "name": "april-fools",
   "version": "0.1.0",
+  "homepage": "https://reymga.github.io/April-fools-day",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
@@ -23,7 +24,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "test-jest": "jest"
+    "test-jest": "jest",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
